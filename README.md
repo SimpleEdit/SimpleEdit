@@ -1,6 +1,6 @@
 # SimpleEdit Editor
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the editor for SimpleEdit!
 Check out [the website](https://simpleedit.github.io "Visit the SimpleEdit website") for more info!
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://thecoder876.github.io"><img src="https://avatars.githubusercontent.com/u/76265544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>thecoder876</b></sub></a><br /><a href="#infra-thecoder876" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/SimpleEdit/editor/commits?author=thecoder876" title="Tests">⚠️</a> <a href="https://github.com/SimpleEdit/editor/commits?author=thecoder876" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AwayFromKeyword"><img src="https://avatars.githubusercontent.com/u/64666021?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AFK</b></sub></a><br /><a href="https://github.com/SimpleEdit/editor/commits?author=AwayFromKeyword" title="Code">💻</a> <a href="#ideas-AwayFromKeyword" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-AwayFromKeyword" title="Business development">💼</a> <a href="#projectManagement-AwayFromKeyword" title="Project Management">📆</a></td>
   </tr>
 </table>
 

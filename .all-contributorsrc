@@ -15,6 +15,18 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "AwayFromKeyword",
+      "name": "AFK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64666021?v=4",
+      "profile": "https://github.com/AwayFromKeyword",
+      "contributions": [
+        "code",
+        "ideas",
+        "business",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
