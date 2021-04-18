@@ -1,23 +1,23 @@
 {
-  "name": "editor",
-  "version": "1.0.0",
-  "description": "This is the editor. Haven't made it yet. Lol I need help. This project is open source. Check out [the website](https://simpleedit.github.io \"Visit the SimpleEdit website\") for more info!",
-  "main": "index.js",
+  "name": "SimpleEdit",
+  "version": "0.0.1",
+  "description": "A new way of editing GD levels.",
+  "main": "/scripts/initServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx nodemon"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SimpleEdit/editor.git"
+    "url": "git+https://github.com/simpleedit/simpleedit.git"
   },
   "keywords": [],
-  "author": "AmpersandGD",
+  "author": "The SimpleEdit Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SimpleEdit/editor/issues"
+    "url": "https://github.com/simpleedit/simpleedit/issues"
   },
-  "homepage": "https://github.com/SimpleEdit/editor#readme",
+  "homepage": "https://simpleedit.github.io",
   "dependencies": {
     "express": "^4.17.1"
   },

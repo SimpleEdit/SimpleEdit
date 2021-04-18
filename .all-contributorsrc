@@ -1,3 +1,4 @@
+// This file is used for configurating the All Contributors bot.
 {
   "files": [
     "README.md"
@@ -30,8 +31,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "editor",
-  "projectOwner": "SimpleEdit",
+  "projectName": "simpleedit",
+  "projectOwner": "simpleedit",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
