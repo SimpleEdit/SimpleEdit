@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 app.get('/config', (req, res) => {
   res.sendFile(`${__dirname}/pages/config.html`);
 });
-// send feedback
+// send feedback.html file
 app.get('/feedback', (req, res) => {
   res.sendFile(`${__dirname}/pages/feedback.html`);
 });
